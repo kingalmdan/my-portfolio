@@ -64,5 +64,8 @@ Contributions are welcome! If you'd like to contribute to My Portfolio, please f
 This project is licensed under the [MIT License](LICENSE).
 =======
 # my-portfolio
+<<<<<<< HEAD
 
 >>>>>>> f1f489a07d02b2ed832b2472feb90def91ac7205
+=======
+>>>>>>> 2fa56cf05d561d8ae1830ef133c95debca465f79
