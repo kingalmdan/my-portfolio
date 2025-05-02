@@ -1,5 +1,5 @@
 export const Bio = {
-  name: "Rishav Chanda",
+  name: "Ahmed Esmail Almadan",
   roles: [
     "Full Stack Developer",
     "Android Developer",
@@ -8,13 +8,13 @@ export const Bio = {
   ],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
-  github: "https://github.com/rishavchanda",
+  github: "https://github.com/kingalmdan",
   resume:
     "https://drive.google.com/file/d/1txFKZD3LNIXMc329jD9c995AU8LItOXK/view?usp=drive_link",
-  linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-  twitter: "https://twitter.com/RishavChanda",
-  insta: "https://www.instagram.com/rishav_chanda/",
-  facebook: "https://www.facebook.com/rishav.chanda.165/",
+  linkedin: "https://www.linkedin.com/in/ahmed-almdan-5b7284342?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+  twitter: "https://x.com/Almdansmasco?s=09",
+  insta: "https://www.instagram.com/a0_0king?igsh=OGttZ2hnbXJvdWtl&utm_source=qr",
+  facebook: "https://www.facebook.com/share/166YxZcsYZ/?mibextid=wwXIfr",
 };
 
 export const skills = [
@@ -469,7 +469,7 @@ export const projects = [
     webapp: "https://podstream.netlify.app/",
     member: [
       {
-        name: "Rishav Chanda",
+        name: "Ahmed Almadan",
         img: "https://avatars.githubusercontent.com/u/64485885?v=4",
         linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
         github: "https://github.com/rishavchanda/",
@@ -516,7 +516,7 @@ export const projects = [
     webapp: "https://brain-tumor.netlify.app/",
     member: [
       {
-        name: "Rishav Chanda",
+        name: "Ahmed ALmadan",
         img: "https://avatars.githubusercontent.com/u/64485885?v=4",
         linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
         github: "https://github.com/rishavchanda/",
